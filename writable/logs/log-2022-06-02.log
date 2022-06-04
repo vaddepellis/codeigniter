@@ -1,0 +1,28 @@
+CRITICAL - 2022-06-02 12:12:46 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home2/googolpl/public_html/code/app/Config/Events.php(30): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home2/googolpl/public_html/code/system/Events/Events.php(166): call_user_func(Object(Closure))
+#3 /home2/googolpl/public_html/code/system/CodeIgniter.php(316): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home2/googolpl/public_html/code/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-02 12:14:09 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home2/googolpl/public_html/code/app/Config/Events.php(30): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home2/googolpl/public_html/code/system/Events/Events.php(166): call_user_func(Object(Closure))
+#3 /home2/googolpl/public_html/code/system/CodeIgniter.php(316): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home2/googolpl/public_html/code/public/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-02 12:19:18 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home2/googolpl/public_html/code/app/Config/Events.php(30): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home2/googolpl/public_html/code/system/Events/Events.php(166): call_user_func(Object(Closure))
+#3 /home2/googolpl/public_html/code/system/CodeIgniter.php(316): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home2/googolpl/public_html/code/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
+CRITICAL - 2022-06-02 12:20:18 --> Your zlib.output_compression ini directive is turned on. This will not work well with output buffers.
+#0 /home2/googolpl/public_html/code/app/Config/Events.php(30): CodeIgniter\Exceptions\FrameworkException::forEnabledZlibOutputCompression()
+#1 [internal function]: CodeIgniter\Events\Events::Config\{closure}()
+#2 /home2/googolpl/public_html/code/system/Events/Events.php(166): call_user_func(Object(Closure))
+#3 /home2/googolpl/public_html/code/system/CodeIgniter.php(316): CodeIgniter\Events\Events::trigger('pre_system')
+#4 /home2/googolpl/public_html/code/index.php(37): CodeIgniter\CodeIgniter->run()
+#5 {main}
